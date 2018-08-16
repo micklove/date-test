@@ -1,5 +1,6 @@
 ### The Brief 
 nb: Created, circa 2014
+(authors note: This is not the latest version, have to find the latest and upload)
 
 ### Calculate difference between two dates.
 
@@ -25,3 +26,10 @@ The application can limit calculation on an input range of dates from 1900 to 20
 #### Deliverables:
 
 An IDE importable java project including but not restricted to source files and test files
+
+#### Instructions
+    
+    # pull, then run
+    mvn clean install
+      
+Cobertura and Findbugs output can be found in ./target after building.
